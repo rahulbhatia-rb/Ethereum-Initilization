@@ -3,7 +3,7 @@ const Web3= require('web3')
 //const web3=new Web3();
 
 const {interface,bytecode} =  require('./compile')
-const provider =  new HDwalletprovider('file spatial grow visit wish enemy oyster young win news girl forget','https://rinkeby.infura.io/v3/b66825151ab3405093e47675111aa09c');
+const provider =  new HDwalletprovider('Provide your mnemonic');
 
 const web3=new Web3(provider);
 
