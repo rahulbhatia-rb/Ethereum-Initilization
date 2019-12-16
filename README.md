@@ -1,2 +1,2 @@
 # Ethereum-Initilization
-A Simple DApp, with an Intriduction to the world of Ethereum and Solidity
+A Simple DApp, with an Introduction to the world of Ethereum and Solidity
